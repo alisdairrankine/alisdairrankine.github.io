@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Rankine Chronicles</title>
+    <link>https://blog.rankine.systems/posts/</link>
+    <description>Recent content in Posts on Rankine Chronicles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 23 Oct 2018 19:31:03 +0100</lastBuildDate>
+    
+	<atom:link href="https://blog.rankine.systems/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to the Rankine Chronicles</title>
+      <link>https://blog.rankine.systems/posts/welcome/</link>
+      <pubDate>Tue, 23 Oct 2018 19:31:03 +0100</pubDate>
+      
+      <guid>https://blog.rankine.systems/posts/welcome/</guid>
+      <description>This is the Rankine Chronicles. The Rankine Chronicles is the blog of Ali Rankine. By day, I am the Architect of the software systems at a major high-street fashion brand, where i wrestle with requirements and play around with programs. At night, I stick with the code and build stuff for fun. I have just started to write the first posts here, and i&amp;rsquo;m not sure how it will go, or even what it will end up looking like, but for now, this will do.</description>
+    </item>
+    
+  </channel>
+</rss>
